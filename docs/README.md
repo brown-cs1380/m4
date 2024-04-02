@@ -238,8 +238,6 @@ To create a submission, run `s/submit.sh` from the root folder of M4. This will 
 You are allowed to submit as many times as you want up until the deadline; so _submit early and often_. For full grade, before submitting the final version of your code make sure that (1) all linters run without any errors, (2) the provided tests run without any errors, and (3) you have provided an additional five or more tests with your implementation.
 
 ## FAQ
-Here we compiled a list of FAQs.
-
 - how to distinguish different node groups
   - use `gid`
 - `all.mem.get` with null keys
